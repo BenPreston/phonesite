@@ -1,10 +1,6 @@
-# React Express Starter Pack
+# Guidesmith Phone 
 
-> Create full stack apps with React and Express. Run your client and server with a single command. 
-
-### Redux Version
-This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
+> This is a small website build for Guidesmiths. 
 
 ## Quick Start
 
@@ -27,12 +23,9 @@ npm run client
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
 
-## App Info
-
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Ben Preston
 
 ### Version
 
@@ -41,3 +34,4 @@ Brad Traversy
 ### License
 
 This project is licensed under the MIT License
+# phoneshop
