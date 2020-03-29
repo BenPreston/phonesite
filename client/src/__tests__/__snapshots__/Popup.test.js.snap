@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Popup /> Renders and displays properly 1`] = `
+<section
+  className="popup"
+>
+  <div
+    className="content"
+  >
+    <h2>
+      iPhone 7
+       
+      <span>
+        (
+        Apple
+        )
+      </span>
+    </h2>
+    <p
+      className="price"
+    >
+      Price: 
+      769
+    </p>
+    <div
+      className="phoneDetail"
+    >
+      <img
+        alt="iPhone 7"
+        src="IPhone_7.png"
+      />
+      <p>
+        iPhone 7 dramatically improves the most important aspects of the iPhone experience. It introduces advanced new camera systems. The best performance and battery life ever in an iPhone. Immersive stereo speakers. The brightest, most colorful iPhone display. Splash and water resistance*. And it looks every bit as powerful as it is. This is iPhone 7.
+      </p>
+      <p>
+        <span
+          className="spectitles"
+        >
+          Color: 
+        </span>
+        black
+      </p>
+      <p>
+        <span
+          className="spectitles"
+        >
+          Screen: 
+        </span>
+        4,7 inch IPS
+      </p>
+      <p>
+        <span
+          className="spectitles"
+        >
+          Processor: 
+        </span>
+        A10 Fusion
+      </p>
+      <p>
+        <span
+          className="spectitles"
+        >
+          RAM: 
+        </span>
+        2
+      </p>
+    </div>
+    <button
+      className="close"
+      onClick={[Function]}
+    >
+      Close
+    </button>
+  </div>
+</section>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Phone /> Renders and displays properly 1`] = `
+<section
+  className="results"
+>
+  <h2>
+    Phones
+  </h2>
+  <div
+    className="phones"
+  >
+    <Phone
+      key="0"
+      openPopup={[Function]}
+      phone={
+        Object {
+          "id": 0,
+          "name": "Galaxy S8",
+        }
+      }
+    />
+    <Phone
+      key="1"
+      openPopup={[Function]}
+      phone={
+        Object {
+          "id": 1,
+          "name": "iPhone 7",
+        }
+      }
+    />
+  </div>
+</section>
+`;
